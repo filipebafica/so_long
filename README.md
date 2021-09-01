@@ -1,5 +1,6 @@
 # So Long
-A small 2D game.
+A small 2D game.\
+![image](https://user-images.githubusercontent.com/31427890/131600970-aac327a0-c971-49f9-b64a-d6c217444c7a.png)
 
 ## 🗂 Table of Contents
 * [About](#-about)
@@ -9,7 +10,8 @@ A small 2D game.
 
 ## 🧐 About
 This is a small 2D game. This project is part of 42 École/ 42 SP curriculum.\
-Topics such as windows, colors, events, textures, and others were addressed.
+Topics such as windows, colors, events, textures, and others were addressed. \
+The textures were designed by o_lobster: https://o-lobster.itch.io/
 
 ## 🏁 Getting Started
 A Linux OS and the `gcc` compiler is needed.
