@@ -29,9 +29,15 @@ Just run the executable passing one of the maps as the argument.
 $ ./so_long map1.ber
 ```
 #### 🚩 A Valid Map
-The map must be composed of only 5 possible characters: 0 for an empty space,\
-1 for a wall, C for a collectible, E for map exit, and P for the player’s starting position. \
-The map must be surrounded by walls.
+The map must be composed of only 5 possible characters: `0` for an empty space, `1` for a wall, `C` for a collectible, \
+`E` for map exit, and `P` for the player’s starting position. The map must be surrounded by walls.
+```
+1111111111111
+10010000000C1
+1000011111001
+1P0011E000001
+1111111111111
+```
 
 ## 🏫 42 École | 42 São Paulo
 42 École is a network of tech schools spread around the world where anyone can learn how to code for free.\
