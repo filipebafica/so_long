@@ -32,7 +32,7 @@ MLX_FLAGS = -lmlx -lXext -lX11
 all: $(NAME)
 
 $(NAME): $(addprefix $(C_SOURCES_PATH), $(C_SOURCES)) $(LIBFT) $(MLX)
-	@$(CC) $^ -I $(PROJECT_INCLUDE) -I $(MLX_INCLUDE) -I$(LIBFT_INCLUDE) -L $(MLX_INCLUDE) $(PROJECT_FLAGS) $(MLX_FLAGS) -o so_long
+	@$(CC) $^ -I $(PROJECT_INCLUDE) -I $(MLX_INCLUDE) -I$(LIBFT_INCLUDE) -L $(MLX_INCLUDE) $(PROJECT_FLAGS) $(MLX_FLAGS) -o $@
 
 $(LIBFT):
 	@make -C Libft
