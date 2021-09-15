@@ -1,4 +1,4 @@
-# So Long
+# so_long
 A small 2D game.\
 ![image](https://user-images.githubusercontent.com/31427890/131600970-aac327a0-c971-49f9-b64a-d6c217444c7a.png)
 
