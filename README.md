@@ -14,7 +14,7 @@ Topics such as windows, colors, events, textures, and others were addressed. \
 The textures were designed by o_lobster: https://o-lobster.itch.io/
 
 ## 🏁 Getting Started
-A Linux OS and the `gcc` compiler is needed.
+A Linux OS and the `gcc` compiler are needed.
 
 #### ⚙️ Installing
 To compile the game, clone the repo, and run the command `make`.
